@@ -282,15 +282,16 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 """ 
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
-    CAPTION = """<b> 📂 <i><a href"https://t.me/+5fD6dBInCsA3MzA1">{file_name}</a></i>\n\n</b>
+    CAPTION = """
+ <b> 📂 <i><a href"https://t.me/+5fD6dBInCsA3MzA1">{file_name}</a></i>\n\n</b>
 
-   <b>⚙️ Fɪʟᴇ Sɪᴢᴇ</b> : <b>{file_size}</b>
+ <b>⚙️ Fɪʟᴇ Sɪᴢᴇ</b> : <b>{file_size}</b>
 
-   <b>╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗
-      ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+LGvWm7Ojx_U4NjU9> 𝐆𝐑𝐎𝐔𝐏 </a>
-      ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a>
-      ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/ARAKAL_THERAVAD_GROUP_LINKS> 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 </a>
-      ╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>"""
+ <b>╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗
+  ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/+LGvWm7Ojx_U4NjU9> 𝐆𝐑𝐎𝐔𝐏 </a>
+  ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS> 𝐎𝐓𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 </a>
+  ♻️ 𝑱𝑶𝑰𝑵 :- <a href=https://t.me/ARAKAL_THERAVAD_GROUP_LINKS> 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 </a>
+  ╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
