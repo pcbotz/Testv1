@@ -283,8 +283,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
    # PLEASE DO NOT REMOVE ANY CREDITS ❤️‍🩹
     
     CAPTION = """
- <b> 📂 <i><a href"https://t.me/+5fD6dBInCsA3MzA1">{file_name}</a></i>\n\n</b>
-
+ <b> 📂 <i><a href"https://t.me/+5fD6dBInCsA3MzA1">{file_name}</a></i></b>\n\n
  <b>⚙️ Fɪʟᴇ Sɪᴢᴇ</b> : <b>{file_size}</b>
 
  <b>╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗
