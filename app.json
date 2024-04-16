@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
-    "repository": "https://github.com/HarshalPurohitEdits/TheMovieProviderBot",
+    "website": "https://github.com/RolexPc/Testv1",
+    "repository": "https://github.com/RolexPc/Testv1",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
